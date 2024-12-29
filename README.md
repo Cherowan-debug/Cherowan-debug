@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hello, I'm Triston
+<a href="www.linkedin.com/in/triston-petersen-9b164733b"><img src="https://img.shields.io/badge/LinkedIn-triston-petersen-blue?logo=linkedin&logoColor=white"/></a>
 
-<!--
+[Brief Introduction]
+
 **Cherowan-debug/Cherowan-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[Provide Objective]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Skills
+[Provide skills and associated project. Make sure to hyperlink the project]
+
+| Skills              | Associated Project          |
+|---------------------|-----------------------------|
+|---------------------|-----------------------------|
+|---------------------|-----------------------------|
+|---------------------|-----------------------------|
+|---------------------|-----------------------------|
+|---------------------|-----------------------------|
+
+# Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link]
+
+<div>
+
+  
+</div>
+
+# Certifications
+[Provide tools and break them down into categories. Use ChatGPT to help create the link]
+
+## Projects
+-
+-
+-
+-
+
+
