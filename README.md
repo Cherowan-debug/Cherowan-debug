@@ -1,5 +1,5 @@
 # Hello, I'm Triston
-<a href="www.linkedin.com/in/triston-petersen-9b164733b"><img src="https://img.shields.io/badge/LinkedIn-triston-petersen-blue?logo=linkedin&logoColor=white" alt="https://img.shields.io/badge/LinkedIn-triston-petersen-blue?logo=linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/triston-petersen"><img src="https://img.shields.io/badge/LinkedIn-triston-petersen-blue?logo=linkedin&logoColor=white" alt="https://img.shields.io/badge/LinkedIn-triston-petersen-blue?logo=linkedin&logoColor=white"/></a>
 
 [Brief Introduction]
 
