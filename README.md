@@ -1,7 +1,5 @@
 # Hello, I'm Triston
-<a href="https://www.linkedin.com/in/triston-petersen" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-triston-petersen-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-    </a>
+<a href="https://www.linkedin.com/in/triston-petersen" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-triston-petersen-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 
 [Brief Introduction]
 
